@@ -68,6 +68,7 @@ public class AuthorizationOnly {
         			System.out.println("Message Code: " + result.getMessages().getMessage().get(0).getCode());
         			System.out.println("Description: " + result.getMessages().getMessage().get(0).getDescription());
         			System.out.println("Secure Acceptance URL : " + result.getSecureAcceptance().getSecureAcceptanceUrl());
+        			System.out.println("Some new output");
         		}
         		else {
         			System.out.println("Failed Transaction.");
