@@ -72,7 +72,8 @@ public class CreateVisaCheckoutTransaction {
     			System.out.println("Failed Transaction.");
     			if (response.getTransactionResponse().getErrors() != null) {
     				System.out.println("Error Code: " + response.getTransactionResponse().getErrors().getError().get(0).getErrorCode());
-    				System.out.println("Error message: " + response.getTransactionResponse().getErrors().getError().get(0).getErrorText());
+    				//System.out.println("Error message: " + response.getTransactionResponse().getErrors().getError().get(0).getErrorText());
+					System.out.println("Message Code: " + result.getMessages().getMessage().get(0).getCode());
     			}
     		}
     	}
