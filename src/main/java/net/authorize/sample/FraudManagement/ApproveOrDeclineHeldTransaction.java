@@ -59,6 +59,7 @@ public class ApproveOrDeclineHeldTransaction {
                     System.out.println("Message Code: " + result.getMessages().getMessage().get(0).getCode());
                     System.out.println("Description: " + result.getMessages().getMessage().get(0).getDescription());
                     System.out.println("Auth Code: " + result.getAuthCode());
+					System.out.println("Loads of new output");
                 } else {
                     System.out.println("Failed while updating transaction.");
                     if (response.getTransactionResponse().getErrors() != null) {
