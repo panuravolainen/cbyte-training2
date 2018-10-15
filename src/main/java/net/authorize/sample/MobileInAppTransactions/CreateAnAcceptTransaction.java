@@ -48,6 +48,7 @@ public class CreateAnAcceptTransaction
         			System.out.println("Message Code: " + result.getMessages().getMessage().get(0).getCode());
         			System.out.println("Description: " + result.getMessages().getMessage().get(0).getDescription());
         			System.out.println("Auth code : " + result.getAuthCode());
+        			System.out.println("Loads of new text");
                 } else {
         			System.out.println("Failed Transaction.");
         			if (response.getTransactionResponse().getErrors() != null) {
