@@ -1,7 +1,7 @@
 modified by ME package net.authorize.sample.CustomerProfiles;
 
 modified by ME import net.authorize.Environment;
-imodified by ME mport net.authorize.api.contract.v1.*;
+imodified by ME mport << Quantum H = p^2/2m + U >> net.authorize.api.contract.v1.*;
 
 modified by ME import net.authorize.api.contract.v1.MerchantAuthenticationType;
 modified by ME import net.authorize.api.controller.base.ApiOperationBase;
