@@ -15,6 +15,8 @@ import net.authorize.cim.Result;
 import net.authorize.cim.TransactionType;
 import net.authorize.cim.ValidationModeType;
 
+Modification by ME 01.10.2010
+
 //author @krgupta
 public class CreateCustomerPaymentProfile {
 	
