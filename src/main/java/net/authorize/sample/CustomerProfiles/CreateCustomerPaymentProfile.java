@@ -1,19 +1,19 @@
-package net.authorize.sample.CustomerProfiles;
+modified by ME package net.authorize.sample.CustomerProfiles;
 
-import net.authorize.Environment;
-import << Quantum H = p^2/2m + U >> net.authorize.api.contract.v1.*;
+modified by ME import net.authorize.Environment;
+imodified by ME mport net.authorize.api.contract.v1.*;
 
-import net.authorize.api.contract.v1.MerchantAuthenticationType;
-import net.authorize.api.controller.base.ApiOperationBase;
+modified by ME import net.authorize.api.contract.v1.MerchantAuthenticationType;
+modified by ME import net.authorize.api.controller.base.ApiOperationBase;
 
-import net.authorize.Transaction;
-import net.authorize.api.controller.CreateCustomerProfileController;
-import net.authorize.api.controller.CreateCustomerProfileFromTransactionController;
-import net.authorize.api.controller.CreateCustomerPaymentProfileController;
-import net.authorize.api.controller.base.ApiOperationBase;
-import net.authorize.cim.Result;
-import net.authorize.cim.TransactionType;
-import net.authorize.cim.ValidationModeType;
+modified by ME import net.authorize.Transaction;
+modified by ME import net.authorize.api.controller.CreateCustomerProfileController;
+modified by ME import net.authorize.api.controller.CreateCustomerProfileFromTransactionController;
+modified by ME import net.authorize.api.controller.CreateCustomerPaymentProfileController;
+modified by ME import net.authorize.api.controller.base.ApiOperationBase;
+modified by ME import net.authorize.cim.Result;
+modified by ME import net.authorize.cim.TransactionType;
+modified by ME import net.authorize.cim.ValidationModeType;
 
 Modification by ME 01.10.2010
 aa.bb.cc("1+1=2); // Random code that will not work
